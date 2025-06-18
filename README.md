@@ -1,1 +1,1 @@
-# Agrinhov3
+O site tem como objetivo conectar o mini, pequeno e médio produtor rural com os clientes finais de sua região. Criando um vínculo com a necessidade dos pequenos e médios estabelecimentos das cidades, que utilizam muitos alimentos produzidos próximo de sua região e a vontade do produtor rural de vender seus produtos de forma rápida e mais lucrativa. Em nosso site o produtor pode se cadastrar para vender e o empresário pode comprar suas mercadorias de forma rápida e segura.
